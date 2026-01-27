@@ -4,6 +4,7 @@
     "description": "My first chat app using socket.io",
     "type": "module",
     "dependencies": {
-        "express": "^4.22.1"
+        "express": "^4.22.1",
+        "socket.io": "^4.8.3"
     }
 }
